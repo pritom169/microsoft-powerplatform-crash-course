@@ -21,5 +21,18 @@ Power Apps Features
 - Easy user experience
 - Developers can build integrate data and systems
 - `200+ connectors` to integrate data and systems
-- Prebuilt `AI scenarios`
+- Prebuilt AI scenarios`
 - Provides private and secure submission of information
+
+## Power Automate
+Power Automate lets users create automated workflows between application and services
+
+It helps automate repetitive business processes such as `communications, data collections,`
+and `decision approvals.`
+
+### Power Automate Features
+- Creation of enterprise-grade process automation
+- Simple interface allowing every level of user to `automate work tasks`
+- Hundreds of prebuilt connectors
+- AI Builder
+- Predicts outcomes to improve performance
