@@ -66,3 +66,26 @@ Users can publish pages as a standalone website or embed them within existing ap
 - Additionally, Power Pages provides `analytics` to help users understand page usage and
 engagement
 
+## Microsoft Power Platform - Features
+Microsoft Power Platform has several cross-cutting features that can be utilized to maximize its
+potential, including `AI Builder, Microsoft Dataverse,` and `Connectors`
+
+### AI Builder
+AI Builder lets users and developers add AI capabilities to the workflows and Power Apps they
+create and use
+- It is a solution that makes it simple to integrate intelligence into your apps and workflows
+to predict outcomes and enhance business performance without writing code.
+
+### Microsoft Dataverse
+Microsoft Dataverse is a scalable data service and app platform which lets users securely store
+and manage data from multiple sources and integrate that data in business applications using a
+`common data model` to ensure ease and consistency to users.
+- This platform is the foundation for consolidating, displaying, and manipulating data, allowing
+the components of Microsoft Power Platform to work together efficiently.
+
+### Connectors
+Connectors enable you to connect apps, data, and devices in the cloud. They act as a bridge,
+facilitating the movement of information and commands across systems.
+- There are more than 600 connectors for Microsoft Power Platform, enabling all your data and
+actions to connect cohesively. Some popular connectors include Salesforce, Office 365,
+Twitter, Dropbox, and various Google services.
