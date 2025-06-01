@@ -8,3 +8,18 @@ Microsoft Power Platform is composed of five key products:
 - Power BI
 - Power Virtual Agents
 - Power Pages
+
+## Power Apps
+Power Apps provides a rapid low code development environment for building custom apps for
+business needs.
+
+It has services, connectors, and a scalable data service and app platform to allow
+simple integration and interaction with existing data.
+
+Power Apps Features
+- `Creation of web and mobile applications`
+- Easy user experience
+- Developers can build integrate data and systems
+- `200+ connectors` to integrate data and systems
+- Prebuilt `AI scenarios`
+- Provides private and secure submission of information
