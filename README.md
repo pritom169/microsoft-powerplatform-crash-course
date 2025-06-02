@@ -89,3 +89,25 @@ facilitating the movement of information and commands across systems.
 - There are more than 600 connectors for Microsoft Power Platform, enabling all your data and
 actions to connect cohesively. Some popular connectors include Salesforce, Office 365,
 Twitter, Dropbox, and various Google services.
+
+## Business value of Microsoft Power Platform
+Many organizations face challenges in creating solutions that assist their users and modernize their
+systems.
+
+These difficulties arise from a lock of resources needed to meet the continually evolving demands of
+modern businesses.
+
+Factors that are having an impact on business include:
+- The changing workforce expectations
+- The increased costs of custom application development
+- The need to become more agile
+- The requirement to scale development efficiently
+
+Organization must adapt to the way people work and provide more collaborative digital experiences
+to empower the upcoming workforce.
+
+Custom application development is time-consuming and expensive, and organizations must develop
+solutions quickly based on fast-changing business demands.
+
+To meet these needs, organizations must change how they develop solutions and create `hybrid development
+teams` that include citizen developers (Power Users) to empower the entire organization to grow.
